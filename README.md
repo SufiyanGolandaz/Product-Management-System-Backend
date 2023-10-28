@@ -99,7 +99,7 @@ server.port=8082  //This is optional, app will run on port 8080 by default
 
 spring.datasource.username= Give your MySQL username
 
-spring.datasource.password= Give yout MySQL password
+spring.datasource.password= Give your MySQL password
 
 spring.datasource.url=jdbc:mysql://localhost:3306/product_management
 ```
