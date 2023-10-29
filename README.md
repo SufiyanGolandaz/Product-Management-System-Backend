@@ -9,6 +9,10 @@ Backend is built using the following tecnologies:-
     -MySQL database
     -Hibernate
 ```
+This project's frontend can be found in the following repository:-
+```bash
+https://github.com/SufiyanGolandaz/Product-Management-System-frontend
+```
 ## API Reference
 
 #### Get all products
